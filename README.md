@@ -2,14 +2,14 @@
 
 ## 📑 Sumário
 
-- [Tecnologias & Ferramentas](#-tecnologias--ferramentas)
-- [Principais Repositórios](#-principais-repositórios)
-- [Experiência Laboral](#-experiência-laboral)
-- [Formação Acadêmica](#-formação-acadêmica)
-- [Capacitações](#-capacitações)
-- [Onde me encontrar?](#-onde-me-encontrar)
-- [Publicações](#-publicações)
-- [Minhas Leituras Recentes](#-minhas-leituras-recentes)
+- 📌 **[Tecnologias & Ferramentas](#-tecnologias--ferramentas)**
+- 📦 **[Principais Repositórios](#-principais-repositórios)**
+- 💼 **[Experiência Laboral](#-experiência-laboral)**
+- 🎓 **[Formação Acadêmica](#-formação-acadêmica)**
+- 📚 **[Capacitações](#-capacitações)**
+- 🌐 **[Onde me encontrar?](#-onde-me-encontrar)**
+- 📝 **[Publicações](#-publicações)**
+- 📖 **[Minhas Leituras Recentes](#-minhas-leituras-recentes)**
 
 ---
 
