@@ -28,7 +28,6 @@
   <img alt="PyTorch" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img alt="TensorFlow" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img alt="Hugging Face" height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
-  <img alt="LangChain" height="30" src="https://images.seeklogo.com/logo-png/61/2/langchain-icon-logo-png_seeklogo-611655.png" />
 
   <br>
 
