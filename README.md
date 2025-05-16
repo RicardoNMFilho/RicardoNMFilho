@@ -1,11 +1,22 @@
 # 👋 Olá, eu sou Ricardo Nogueira Miranda Filho!
 
+## 📑 Sumário
+
+- [Tecnologias & Ferramentas](#-tecnologias--ferramentas)
+- [Principais Repositórios](#-principais-repositórios)
+- [Experiência Laboral](#-experiência-laboral)
+- [Formação Acadêmica](#-formação-acadêmica)
+- [Capacitações](#-capacitações)
+- [Onde me encontrar?](#-onde-me-encontrar)
+- [Publicações](#-publicações)
+- [Minhas Leituras Recentes](#-minhas-leituras-recentes)
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RicardoNMFilho&show_icons=true&theme=tokyonight" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNMFilho&layout=compact&theme=tokyonight" width="350"/>
 </p>
-
-
 
 ---
 
