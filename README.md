@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ricardo Nogueira Miranda Filho!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNMFilho&show_icons=true&theme=tokyonight" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoNMFilho&show_icons=true&theme=tokyonight" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNMFilho&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
