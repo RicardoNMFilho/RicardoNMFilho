@@ -28,7 +28,7 @@
   <img alt="PyTorch" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img alt="TensorFlow" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img alt="Hugging Face" height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
-  <img alt="LangChain" height="30" src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/favicon.ico" />
+  <img alt="LangChain" height="30" src="https://images.seeklogo.com/logo-png/61/2/langchain-icon-logo-png_seeklogo-611655.png" />
 
   <br>
 
@@ -54,11 +54,7 @@
 
 ## 💡 Principais Repositórios
 
-| Projeto                         | Descrição rápida                             | Link                                    |
-| ------------------------------ | ------------------------------------------- | --------------------------------------- |
-| [Memory Tracer](https://github.com/ricardo-nm-filho/memory-tracer) | Ferramenta para análise do consumo de memória em dispositivos Android | ⭐ Acesse aqui                          |
-| [HarpIA](https://github.com/ricardo-nm-filho/harpia) | Framework para análise comparativa de IA embarcada com foco em eficiência energética | ⭐ Acesse aqui                          |
-| [SWPERFI](https://github.com/ricardo-nm-filho/swperfi) | Projeto de P&D para otimização de desempenho de software via IA | ⭐ Acesse aqui                          |
+> 🚧 **Em Construção:** Esta seção está sendo atualizada e novos projetos serão adicionados em breve.
 
 ---
 
