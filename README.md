@@ -186,7 +186,7 @@ Confira meu perfil no Goodreads para acompanhar todas as minhas leituras:
 
 
 
-![Coding GIF](https://media1.tenor.com/m/TRZhUKDNdIEAAAAC/neco-arc-work-neco-arc.gif)
+<img src="https://media1.tenor.com/m/TRZhUKDNdIEAAAAC/neco-arc-work-neco-arc.gif" width="200">
 
 <div align="center">
   Feito com ❤️ por Ricardo NM Filho
