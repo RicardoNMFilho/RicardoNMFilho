@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Ricardo Nogueira Miranda Filho!
 
-Sou pesquisador e desenvolvedor apaixonado por Inteligência Artificial, com foco em sistemas embarcados e aplicações práticas de aprendizado de máquina. Tenho experiência em projetos de pesquisa aplicada, desenvolvimento Android, otimização de modelos de IA, e construção de soluções eficientes e inovadoras. Aqui você encontrará um resumo das minhas principais habilidades, projetos, publicações e formas de contato.
-
 ## 📑 Sumário
 
 - 📌 **[Tecnologias & Ferramentas](#-tecnologias--ferramentas)**
