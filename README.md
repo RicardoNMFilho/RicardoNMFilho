@@ -14,14 +14,14 @@
 ---
 
 <p align="center">
-  <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=RicardoNMFilho&theme=tokyonight&hide_border=true" width="450"/>
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=RicardoNMFilho&show_icons=true&theme=tokyonight" width="450"/>
 
 <!-- Top Langs -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNMFilho&layout=compact&theme=tokyonight" width="350"/>
+
+<img src="https://streak-stats.demolab.com/?user=RicardoNMFilho&theme=tokyonight" width="350"/>
 
 </p>
 
