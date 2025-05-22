@@ -91,49 +91,44 @@ Desenvolvi tarefas de **benchmarking de linguagens de programação** (C, C++, J
 
 ## 🎓 Formação Acadêmica
 
-<details open>
-<summary><strong>Mestrando em Inteligência Artificial e Ciência de Dados</strong> — UFAM (2025 - Atual)</summary>
-
+### Mestrando em Inteligência Artificial e Ciência de Dados  
+**PPGI / IComp / Universidade Federal do Amazonas**  
+📅 2025 - Andamento  
 📍 Manaus, AM  
-Otimização de desempenho de modelos de aprendizado profundo em sistemas embarcados.
+Otimização de desempenho de modelos de aprendizado profundo em sistemas embarcados
 
-</details>
+···
 
-<details>
-<summary><strong>Bacharel em Ciência da Computação</strong> — UFAM (2021 - 2025)</summary>
-
+### Bacharel em Ciência da Computação  
+**Universidade Federal do Amazonas**  
+📅 2021 - 2025  
 📍 Manaus, AM  
-HarpIA: Uma ferramenta para análise comparativa de frameworks de IA embarcada em Android com foco em eficiência energética.
+HarpIA: Uma ferramenta para análise comparativa de frameworks de IA embarcada em Android com foco em eficiência energética
 
-</details>
+···
 
-<details>
-<summary><strong>Técnico Integrado em Mecatrônica</strong> — CEFET-MG / IFAM (2019 - 2021)</summary>
-
+### Técnico Integrado em Mecatrônica  
+**CEFET-MG / IFAM**  
+📅 2019 - 2021  
 📍 Belo Horizonte, MG / Manaus, AM  
-PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32.
-
-</details>
-
+PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32
 
 
 ---
 
 ## 💼 Capacitações
 
-<details>
-<summary><strong>DevTITANS - Desenvolvimento Android e Sistemas Embarcados (2023)</strong></summary>
+### DevTITANS - Desenvolvimento, Tecnologia e Inovação em Android e Sistemas Embarcados (2023)
 
-Projeto do IComp/UFAM com Motorola e Flextronics. Foco em AOSP, integração de serviços e inovação embarcada.
+- Projeto do IComp/UFAM em parceria com Motorola e Flextronics, focado na formação de profissionais especializados em Android para Sistemas Embarcados.  
+- Capacitação em criação, personalização e manutenção de sistemas Android baseados no Android Open Source Project (AOSP) para diferentes dispositivos de hardware, com conhecimentos avançados em adaptação de código-fonte, integração de serviços e desenvolvimento de tecnologias inovadoras para o mercado.
 
-</details>
+### Web Academy - Capacitação em Desenvolvimento Web Full Stack (Em Andamento)
 
-<details>
-<summary><strong>Web Academy - Capacitação em Desenvolvimento Web Full Stack (Em andamento)</strong></summary>
+- Capacitação intensiva em desenvolvimento web full stack, focado na concepção, projeto, implementação e testes de aplicações para Internet.  
+- Formação prática com tecnologias modernas como HTML5, CSS3, JavaScript, Node.js, Typescript, React, Express, MySQL, Docker, GitHub Actions e metodologias ágeis.  
+- Inclui também módulos de Cibersegurança, Ciência de Dados, Aprendizado de Máquina e desenvolvimento prático de projeto hands-on.
 
-Capacitação com HTML5, CSS3, JS, TS, Node.js, React, Docker, GitHub Actions, metodologias ágeis e projeto prático.
-
-</details>
 ---
 
 ## 📫 Onde me encontrar?
