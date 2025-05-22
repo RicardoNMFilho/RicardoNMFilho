@@ -121,17 +121,19 @@ PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32.
 
 ## 💼 Capacitações
 
-### DevTITANS - Desenvolvimento, Tecnologia e Inovação em Android e Sistemas Embarcados (2023)
+<details>
+<summary><strong>DevTITANS - Desenvolvimento Android e Sistemas Embarcados (2023)</strong></summary>
 
-- Projeto do IComp/UFAM em parceria com Motorola e Flextronics, focado na formação de profissionais especializados em Android para Sistemas Embarcados.  
-- Capacitação em criação, personalização e manutenção de sistemas Android baseados no Android Open Source Project (AOSP) para diferentes dispositivos de hardware, com conhecimentos avançados em adaptação de código-fonte, integração de serviços e desenvolvimento de tecnologias inovadoras para o mercado.
+Projeto do IComp/UFAM com Motorola e Flextronics. Foco em AOSP, integração de serviços e inovação embarcada.
 
-### Web Academy - Capacitação em Desenvolvimento Web Full Stack (Em Andamento)
+</details>
 
-- Capacitação intensiva em desenvolvimento web full stack, focado na concepção, projeto, implementação e testes de aplicações para Internet.  
-- Formação prática com tecnologias modernas como HTML5, CSS3, JavaScript, Node.js, Typescript, React, Express, MySQL, Docker, GitHub Actions e metodologias ágeis.  
-- Inclui também módulos de Cibersegurança, Ciência de Dados, Aprendizado de Máquina e desenvolvimento prático de projeto hands-on.
+<details>
+<summary><strong>Web Academy - Capacitação em Desenvolvimento Web Full Stack (Em andamento)</strong></summary>
 
+Capacitação com HTML5, CSS3, JS, TS, Node.js, React, Docker, GitHub Actions, metodologias ágeis e projeto prático.
+
+</details>
 ---
 
 ## 📫 Onde me encontrar?
