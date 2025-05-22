@@ -91,27 +91,30 @@ Desenvolvi tarefas de **benchmarking de linguagens de programação** (C, C++, J
 
 ## 🎓 Formação Acadêmica
 
-### Mestrando em Inteligência Artificial e Ciência de Dados  
-**PPGI / IComp / Universidade Federal do Amazonas**  
-📅 2025 - Andamento  
+<details open>
+<summary><strong>Mestrando em Inteligência Artificial e Ciência de Dados</strong> — UFAM (2025 - Atual)</summary>
+
 📍 Manaus, AM  
-Otimização de desempenho de modelos de aprendizado profundo em sistemas embarcados
+Otimização de desempenho de modelos de aprendizado profundo em sistemas embarcados.
 
-···
+</details>
 
-### Bacharel em Ciência da Computação  
-**Universidade Federal do Amazonas**  
-📅 2021 - 2025  
+<details>
+<summary><strong>Bacharel em Ciência da Computação</strong> — UFAM (2021 - 2025)</summary>
+
 📍 Manaus, AM  
-HarpIA: Uma ferramenta para análise comparativa de frameworks de IA embarcada em Android com foco em eficiência energética
+HarpIA: Uma ferramenta para análise comparativa de frameworks de IA embarcada em Android com foco em eficiência energética.
 
-···
+</details>
 
-### Técnico Integrado em Mecatrônica  
-**CEFET-MG / IFAM**  
-📅 2019 - 2021  
+<details>
+<summary><strong>Técnico Integrado em Mecatrônica</strong> — CEFET-MG / IFAM (2019 - 2021)</summary>
+
 📍 Belo Horizonte, MG / Manaus, AM  
-PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32
+PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32.
+
+</details>
+
 
 
 ---
