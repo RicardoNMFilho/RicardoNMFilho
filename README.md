@@ -21,8 +21,6 @@
 <!-- Top Langs -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNMFilho&layout=compact&theme=tokyonight" width="350"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RicardoNMFilho&hide_total_contributions=true)](https://git.io/streak-stats)
-
 </p>
 
 ---
