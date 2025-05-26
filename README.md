@@ -1,3 +1,5 @@
+👋 Oi, sou Ricardo Nogueira Miranda Filho!
+
 ## 📑 Sumário
 
 - 📌 **[Tecnologias & Ferramentas](#-tecnologias--ferramentas)**
