@@ -1,4 +1,4 @@
-👋 Oi, sou Ricardo Nogueira Miranda Filho!
+#👋 Oi, sou Ricardo Nogueira Miranda Filho!
 
 ## 📑 Sumário
 
