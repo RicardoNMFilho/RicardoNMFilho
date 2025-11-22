@@ -125,7 +125,7 @@ PCCT Óculos de Detecção de Emoção: Executando Redes Neurais em ESP32
 - Projeto do IComp/UFAM em parceria com Motorola e Flextronics, focado na formação de profissionais especializados em Android para Sistemas Embarcados.  
 - Capacitação em criação, personalização e manutenção de sistemas Android baseados no Android Open Source Project (AOSP) para diferentes dispositivos de hardware, com conhecimentos avançados em adaptação de código-fonte, integração de serviços e desenvolvimento de tecnologias inovadoras para o mercado.
 
-### Web Academy - Capacitação em Desenvolvimento Web Full Stack (Em Andamento)
+### Web Academy - Capacitação em Desenvolvimento Web Full Stack (2025)
 
 - Capacitação intensiva em desenvolvimento web full stack, focado na concepção, projeto, implementação e testes de aplicações para Internet.  
 - Formação prática com tecnologias modernas como HTML5, CSS3, JavaScript, Node.js, Typescript, React, Express, MySQL, Docker, GitHub Actions e metodologias ágeis.  
